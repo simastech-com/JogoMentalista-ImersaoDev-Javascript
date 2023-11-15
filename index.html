@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentalista</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/brain.png" type="image/x-icon">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            Mentalista
+        </h1>
+        <img src="img/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+    </div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="img/alura-logo.svg" alt="" class="alura-logo">
+    </a>
+    <img src="img/cerebro.png">
+
+    <form action="" id="form">
+        <p>Adivinhe um número entre 1 e 1000 em 10 tentativas!</p>
+        <button id="btnComecar" onclick="comecarJogo()">Clique aqui para começar</button>
+        <label for="nome">Informe seu nome</label>
+        <input type="text" name="nome" id="nome" disabled list="listaNomes">
+        <datalist id="listaNomes"></datalist>
+        <label for="palpite">Informe seu palpite</label>
+        <input type="text" name="palpite" id="palpite" disabled>
+        <button id="btnEnviar" onclick="enviarPalpite()" disabled>Enviar palpite</button>
+
+        <div id="resultado"></div>
+    </form>
+
+    <script src="calc.js"></script>
+</body>
+
+</html>
