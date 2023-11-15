@@ -1,4 +1,4 @@
-## Conversor de temperatura
+## Jogo do mentalista
 
 <img src="https://github.com/simastech-com/JogoMentalista-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
 
