@@ -30,5 +30,5 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
 </ul>
 
 # Visualização
-Para visualizar e interagir com  página, acesse este link : https://simastech-com.github.io/JogoMentalista-ImersaoDev-Javascript/
+Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/JogoMentalista-ImersaoDev-Javascript/
 
