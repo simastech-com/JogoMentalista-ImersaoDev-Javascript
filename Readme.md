@@ -27,6 +27,7 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
     <li>Inclusão do nome do jogador.</li>
     <li>A cada partida, o campo de nome armazena uma lista com os nomes dos jogadores.</li>
     <li>Alterações de css e inclusão de imagens localmente.</li>
+    <li>Inclusão de favicon.</li>
 </ul>
 
 # Visualização
